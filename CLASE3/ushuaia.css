@@ -1,0 +1,40 @@
+.titulo{
+border: 2px solid rgb(45, 3, 161);
+text-align: center;
+color: rgb(223, 222, 241);
+margin: 5%;
+background-color: rgb(47, 203, 241);
+}
+
+.origen{
+    font-family: 'Courier New', Courier, monospace;
+    font: bolder;
+    font-style: oblique;
+    font-size: 150%;
+    background-color: rgb(97, 38, 233);
+    display: flex;
+}
+
+.origen1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-size: 125%;
+    background-color: rgb(7, 108, 155);
+    display:flex;
+}
+body{
+    background-color: rgb(134, 134, 248);
+}
+
+.titulo2{
+    border: 2px solid rgb(45, 3, 161);
+    text-align: center;
+    color: rgb(223, 222, 241);
+    margin: 5%;
+    background-color: rgb(47, 203, 241);
+}
+
+.resaltar{
+    color: white ;
+    font-style: inherit;
+}
