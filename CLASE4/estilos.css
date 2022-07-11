@@ -1,0 +1,115 @@
+.contenedor
+{
+  max-width:680px;
+	width:90%;
+	display: flex;
+  flex-wrap: wrap;
+  border:1px solid black;
+  border-radius: 10px;
+  background-color: grey;
+  justify-content: space-between;
+}
+.encabezado{
+  margin-top: 5px;
+}
+.logo{
+  margin-top: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+    color: white;
+    background-color: rgb(19, 5, 145);
+}
+.menu1{
+  margin-top: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(64, 207, 45);
+}
+.menu2{
+  margin-top: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(95, 8, 8);
+  text-align: left;
+  width: 300px;
+}
+.box1{
+  display: block;
+  padding: 10px;
+}
+.box2{
+  display: block;
+  padding: 10px;
+  margin: 5px;
+}
+.contenedor2{
+    display: flex;
+    margin-top: 10px;
+}
+.izquierda{
+    margin: 10px;
+    height: 250px;
+    width: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(62, 65, 65);
+    color: rgb(255, 255, 245);
+}
+.centro{
+    margin: 10px;
+    height: 250px;
+    width: 180px;
+    border: 1px solid black; 
+    border-radius: 10px;
+    background-color: rgb(7, 114, 175);
+    color: white;
+}
+.derecha{
+    margin: 10px;
+    height: 250px;
+    width: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(240, 104, 25);
+    color: white;
+}
+.contenedor3{
+    display: flex;
+}
+.izquierda2{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    width: 382px;
+    background-color: rgb(7, 99, 14);
+    color: white;
+}
+.derecha2{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    width: 180px;
+    background-color: rgb(136, 46, 4);
+    color: white;
+}
+.contenedor4{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 585px;
+    background-color: aqua;
+}
+.pie{
+    margin: 5px;
+}
+.elemento{
+    text-align: end;
+    margin-right: 10px;
+    background-color: rgb(63, 8, 116);
+    color: white;
+    
+}
