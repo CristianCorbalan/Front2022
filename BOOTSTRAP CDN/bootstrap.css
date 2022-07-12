@@ -1,0 +1,66 @@
+.borde{
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.encabezado
+{  
+     height: 95px;
+    background-color: grey;
+} 
+
+.fuente
+{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.elemento{
+    height: 400px;
+}
+
+.margen{
+    margin-top: 10px;
+    padding: 5px;
+    
+}
+
+.color1{
+    background-color: rgb(148, 66, 66);
+}
+
+.color2{
+    background-color: rgb(97, 97, 175);
+}
+
+.color3{
+    background-color: rgb(231, 133, 14);
+}
+
+.color4{
+    background-color: rgb(6, 100, 69);
+}
+
+.color5{
+    background-color: rgb(12, 219, 123);
+}
+
+.color6{
+    background-color: rgb(77, 55, 172);
+}
+
+.color7{
+    background-color: rgb(129, 28, 67);
+}
+
+.color8{
+    background-color: rgb(112, 36, 102);
+}
+
+.color9{
+    background-color: rgb(94, 92, 9);
+}
+
+.color10{
+    background-color: rgb(157, 212, 6);
+}
