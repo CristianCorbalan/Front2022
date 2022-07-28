@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(247, 44, 44);
+}
+
+.titulo{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  color: white;  
+  border: 2px solid white;
+  height: 50%;
+}
+
+.form{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  border: 2px solid white; 
+  color: white;
+  font-size: large;
+  font-style: oblique;
+  margin-top: 30px; 
+  height: 50%; 
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20%;  
+}
+
